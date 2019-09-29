@@ -1,0 +1,14 @@
+stm32f4xx_hal_cec.c:271:19:HAL_CEC_SetDeviceAddress	0	static
+stm32f4xx_hal_cec.c:317:14:HAL_CEC_MspInit	0	static
+stm32f4xx_hal_cec.c:147:19:HAL_CEC_Init	8	static
+stm32f4xx_hal_cec.c:331:14:HAL_CEC_MspDeInit	0	static
+stm32f4xx_hal_cec.c:217:19:HAL_CEC_DeInit	8	static
+stm32f4xx_hal_cec.c:389:19:HAL_CEC_Transmit_IT	4	static
+stm32f4xx_hal_cec.c:443:10:HAL_CEC_GetLastReceivedFrameSize	0	static
+stm32f4xx_hal_cec.c:455:6:HAL_CEC_ChangeRxBuffer	0	static
+stm32f4xx_hal_cec.c:570:14:HAL_CEC_TxCpltCallback	0	static
+stm32f4xx_hal_cec.c:585:13:HAL_CEC_RxCpltCallback	0	static
+stm32f4xx_hal_cec.c:600:14:HAL_CEC_ErrorCallback	0	static
+stm32f4xx_hal_cec.c:465:6:HAL_CEC_IRQHandler	24	static
+stm32f4xx_hal_cec.c:632:22:HAL_CEC_GetState	0	static
+stm32f4xx_hal_cec.c:647:10:HAL_CEC_GetError	0	static

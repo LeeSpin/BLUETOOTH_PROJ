@@ -1,0 +1,4 @@
+bsp.c:15:6:SCCB_Init	8	static
+bsp.c:30:6:uart1_init	8	static
+bsp.c:45:6:dcmi_init	8	static
+bsp.c:64:6:bspInit	8	static
