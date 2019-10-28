@@ -1,2 +1,2 @@
-ap.c:10:6:apInit	0	static
-ap.c:15:6:apMain	0	static
+ap.c:12:6:apInit	8	static
+ap.c:19:6:apMain	8	static

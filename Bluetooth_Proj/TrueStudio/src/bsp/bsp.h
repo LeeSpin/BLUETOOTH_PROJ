@@ -9,7 +9,7 @@
 #define SRC_BSP_BSP_H_
 
 #include "def.h"
-
+#include "stm32f4xx_hal.h"
 void dcmi_init();
 void uart1_init();
 void SCCB_Init(void);
